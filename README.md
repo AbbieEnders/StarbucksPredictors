@@ -13,7 +13,7 @@ Review a detailed review on Medium [add link].
 You can download this notebook and see the code run.
 ### Dependencies
 Versions of the packages in my virtual environment, starred ones called specifically in my project.
-# Name                    Version
+| Name   |                 Version|
 
 matplotlib**              3.9.0  
 
