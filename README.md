@@ -34,3 +34,7 @@ data/portfolio.json-> offer information
 data/profile.json-> user information
 
 data/transcript.json-> interaction information
+
+### Attributions and Acknowledgements 
+Data originally from Udacity and Udacity lectures.
+MIT License.
