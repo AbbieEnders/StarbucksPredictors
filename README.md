@@ -8,7 +8,7 @@
 - The regression model will determine if demographic data can predict the transaction amount.
     - For regression we can explore the R-squared score and residuals. This shows how much of the amount of the transaction isn't captured by the model for the test data.
 ## Where are the results?
-Review a detailed review on Medium [add link].
+Review a detailed review on [Medium](https://medium.com/@abigailenders19/starbucks-is-it-personal-019132104029).
 ## How do I use this?
 You can download this notebook and see the code run.
 ### Dependencies
